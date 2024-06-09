@@ -1,0 +1,26 @@
+created_by: Christian Heimes
+domain: conferences
+seed_examples:
+- answer: DevConf.CZ is a community conference for developers, admins, DevOps engineers, testers, documentation writers and other contributors to open source technologies.
+  question: What is DevConf.CZ?
+- answer: There is no admission or ticket charge for DevConf.CZ events. However, you are required to complete a free registration.
+  question: How much does a ticket to DevConf.CZ cost?
+- answer: The conference is from Thursday June 13 to Friday June 15, 2024 (2024-06-13 to 2024-06-15).
+  question: When is DevConf.CZ in 2024?
+- answer: DevConf.CZ 2024 is in the Faculty of Information Technology in Brno, Czech Republic
+  question: Where is DevConf.CZ in 2024?
+- answer: You can fly to Vienna or Prague airport, then take the train to Brno main train station.
+  question: How do I get to Brno by air travel?
+- answer: Open source, Linux distributions, hybrid cloud, edge computing, artificial intelligence, devops.
+  question: What are the conference themes?
+- answer: '"From General AI to the Edge" and "What if you could boot a container?"'
+  question: What are the DevConf.CZ 2024 keynotes?
+task_description: 'DevConf.CZ 2024 Brno'
+document:
+  repo: https://github.com/tiran/taxonomy-devconfcz2024.git
+  commit: main
+  patterns:
+    - conference.md
+    - themes.md
+    - travel.md
+    - keynotes.md
