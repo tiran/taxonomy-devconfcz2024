@@ -1,12 +1,6 @@
 # DevConf.CZ
 
-* open source community conference
-* June 13-15, 2024
-* 2024-06-13 to 2024-06-15
-* first day: Thursday June 13, 2024
-* last day: Saturday June 13, 2024
-* Brno, Czech Republic
-* Faculty of Information Technology
+DevConf.CZ is an open source community conference in Brno, Czech Republic. It takes place from Thursday June 13, 2024 (2024-06-13) to Saturday June 13, 2024 (2024-06-15) in the Faculty of Information Technology.
 
 ## DevConf.CZ 2024 Social Event (Outdoor)
 

@@ -4,10 +4,7 @@
 
 2024-06-13, 09:30–10:05 (Europe/Prague), D105 (capacity 300) 
 
-### Speakers
- - Christoph Görn
- - Johan Robinson
- - Myriam Fentanes Gutierrez
+Speakers are Christoph Görn, Johan Robinson, and Myriam Fentanes Gutierrez
 
 ### Abstract
 
@@ -22,11 +19,7 @@ Concluding with a look at future directions, we speculate on emerging trends and
 
 2024-06-14, 09:30–10:05 (Europe/Prague), D105 (capacity 300)
 
-### Speakers
-
-- Dan Walsh
-- Stef Walter
-- Colin Walters
+Speakers are Dan Walsh, Stef Walter, and Colin Walters.
 
 ### Abstract
 

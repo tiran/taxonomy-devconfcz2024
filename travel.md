@@ -32,12 +32,12 @@ There are also small international airports in Ostrava and Pardubice Both have g
 Brno has good train connections within Europe. All international trains are arriving and departing at the Main Train Station.
 Train Timetables
 
-Prague - trains between Prague and Brno go hourly and take approximately 2.5 hours
-Vienna - trains between Wien Hbf and Brno go hourly and take approximately 1.5 hours
-Bratislava - trains between Bratislava Hlavna Stanica and Brno go hourly and take approximately 1.5 hours
-Budapest - trains between Budapest-Keleti pu and Brno run several trains every day and take approximately 5 hours
-Warsaw - trains between Warszawa Centralna and Brno run several times every day (usually with a connection) and take approximately 7 hours
-Berlin - trains between Berlin Hauptbahnhof and Brno run several trains every day and take approximately 7.5 hours
+Prague, trains between Prague and Brno go hourly and take approximately 2.5 hours
+Vienna, trains between Wien Hbf and Brno go hourly and take approximately 1.5 hours
+Bratislava, trains between Bratislava Hlavna Stanica and Brno go hourly and take approximately 1.5 hours
+Budapest, trains between Budapest-Keleti pu and Brno run several trains every day and take approximately 5 hours
+Warsaw, trains between Warszawa Centralna and Brno run several times every day (usually with a connection) and take approximately 7 hours
+Berlin, trains between Berlin Hauptbahnhof and Brno run several trains every day and take approximately 7.5 hours
 
 ## By bus
 
@@ -47,12 +47,12 @@ Brno is also part of the European bus network and all connections and their pric
 
 Brno is well-connected to other cities by highway. You can get easily to neighboring countries by car. In order to use Czech highways you have to purchase a highway sticker. The 10 day sticker costs 350 CZK/13 € and can be purchased at every gas station. Travel time examples:
 
-Prague - 210 km, 2 hours
-Bratislava - 130 km, 1.3 hours
-Vienna - 143 km, 1.8 hours
-Budapest - 326 km, 3 hours
-Munich - 587 km, 5.3 hours
-Berlin - 555 km, 5.2 hours
+Prague, 210 km, 2 hours
+Bratislava, 130 km, 1.3 hours
+Vienna, 143 km, 1.8 hours
+Budapest, 326 km, 3 hours
+Munich, 587 km, 5.3 hours
+Berlin, 555 km, 5.2 hours
 
 ## Getting to the Venue
 
