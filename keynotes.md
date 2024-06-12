@@ -2,7 +2,7 @@
 
 ## Keynote: From General AI to the Edge: Navigating the Future of Technology
 
-2024-06-13, 09:30–10:05 (Europe/Prague), D105 (capacity 300) 
+2024-06-13, 09:30–10:05
 
 Speakers are Christoph Görn, Johan Robinson, and Myriam Fentanes Gutierrez
 
@@ -15,11 +15,11 @@ Concluding with a look at future directions, we speculate on emerging trends and
 
 ## Keynote: What if you could boot a container?
 
-2024-06-14, 09:30–10:05 (Europe/Prague), D105 (capacity 300)
+2024-06-14, 09:30–10:05
 
 Speakers are Dan Walsh, Stef Walter, and Colin Walters.
 
-People talk about “Linux containers” forgetting that the part actually called “Linux”, the kernel, isn’t in the container.
+People talk about Linux containers forgetting that the part actually called Linux, the kernel, isn’t in the container.
 
 But what if you could include a kernel in your container image, and what if you could boot that image? What if you could commit the definition of your whole Linux system to version control. What if you could push around images for the entire system, just like you can with containers. And finally: what if this was a documented and tested first class workflow supported by your Linux OS/distribution?
 
