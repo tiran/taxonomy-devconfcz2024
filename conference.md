@@ -4,8 +4,7 @@ DevConf.CZ is an open source community conference in Brno, Czech Republic. It ta
 
 ## DevConf.CZ 2024 Social Event (Outdoor)
 
-Friday, 2024-06-14, 18:00–22:00 (Europe/Prague)
-
+Friday, 2024-06-14, 18:00–22:00
 We're excited to announce that there will be a social event held during the conference. We invite all speakers and volunteers, early bird in-person ticket holders plus extra tickets available on a first-come, first-served basis during the conference on Friday.
 
 The social event is held outdoors near the swimming pool. Please note, we do not plan to use the swimming pool for a variety of reasons. We chose the place because it is located conveniently and there is a beautiful outdoor deck that can create the right atmosphere for us. We will have access to beach volleyball courts and we have prepared other outdoor games for your enjoyment during the social event.

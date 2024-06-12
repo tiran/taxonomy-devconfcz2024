@@ -5,7 +5,7 @@ seed_examples:
   question: What is DevConf.CZ?
 - answer: There is no admission or ticket charge for DevConf.CZ events. However, you are required to complete a free registration.
   question: How much does a ticket to DevConf.CZ cost?
-- answer: The conference is from Thursday June 13 to Friday June 15, 2024 (2024-06-13 to 2024-06-15).
+- answer: The conference is from Thursday June 13 to Friday June 15, 2024.
   question: When is DevConf.CZ in 2024?
 - answer: DevConf.CZ 2024 is in the Faculty of Information Technology in Brno, Czech Republic
   question: Where is DevConf.CZ in 2024?
@@ -13,7 +13,7 @@ seed_examples:
   question: How do I get to Brno by air travel?
 - answer: Open source, Linux distributions, hybrid cloud, edge computing, artificial intelligence, devops.
   question: What are the conference themes?
-- answer: '"From General AI to the Edge" and "What if you could boot a container?"'
+- answer: The first keynote is From General AI to the Edge, and the second keynote is What if you could boot a container.
   question: What are the DevConf.CZ 2024 keynotes?
 task_description: 'DevConf.CZ 2024 Brno'
 document:

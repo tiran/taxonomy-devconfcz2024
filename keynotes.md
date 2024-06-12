@@ -6,8 +6,6 @@
 
 Speakers are Christoph Görn, Johan Robinson, and Myriam Fentanes Gutierrez
 
-### Abstract
-
 This presentation offers a comprehensive exploration of artificial intelligence (AI) and its trajectory from broad, foundational principles to specialized applications at the technological forefront. Starting with an introduction to AI and its evolution, the presentation transitions to discussing the applications and impact of AI, we spotlight the transformative effects on sectors such as healthcare, finance, automotive, and entertainment, while also addressing the ethical and societal implications that accompany widespread AI adoption.
 
 Diving deeper, the presentation shifts focus towards the frontier of AI technology—edge AI. Here, we uncover the significance of bringing AI processing closer to the data source, highlighting the benefits of reduced latency and enhanced privacy, alongside the challenges faced in implementation. Through real-world examples, attendees will gain insights into how edge AI is being integrated into smart devices, autonomous vehicles, and industrial predictive maintenance.
@@ -20,8 +18,6 @@ Concluding with a look at future directions, we speculate on emerging trends and
 2024-06-14, 09:30–10:05 (Europe/Prague), D105 (capacity 300)
 
 Speakers are Dan Walsh, Stef Walter, and Colin Walters.
-
-### Abstract
 
 People talk about “Linux containers” forgetting that the part actually called “Linux”, the kernel, isn’t in the container.
 
